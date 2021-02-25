@@ -1,0 +1,1 @@
+from deepsynthesis.data.synthesis.strix import wrapper
